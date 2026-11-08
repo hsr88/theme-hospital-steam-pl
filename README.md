@@ -4,7 +4,9 @@ Nieoficjalne spolszczenie **Theme Hospital ze Steam**, działające z oryginaln�
 
 **[Pobierz wersję 0.2 beta](https://github.com/hsr88/theme-hospital-steam-pl/releases/tag/v0.2-beta)**
 
-Sprawdzona wersja gry: **Steam App ID 2229820, build 25682708**. Instalator wymaga własnej kopii gry i języka **English** ustawionego w Steam. Nie instaluje silnika CorsixTH.
+[Poradnik instalacji w Społeczności Steam](https://steamcommunity.com/sharedfiles/filedetails/?id=3836126920)
+
+Spolszczenie przygotowano dla [wydania Theme Hospital na Steam z **5 listopada 2026 r.**](https://store.steampowered.com/app/2229820/Theme_Hospital/). Sprawdzona wersja gry: **Steam App ID 2229820, build 25682708**. Instalator wymaga własnej kopii gry i języka **English** ustawionego w Steam. Nie instaluje silnika CorsixTH.
 
 ## Instalacja
 

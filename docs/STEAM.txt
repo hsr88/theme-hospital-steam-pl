@@ -1,17 +1,20 @@
+ADRES PORADNIKA:
+https://steamcommunity.com/sharedfiles/filedetails/?id=3836126920
+
 TYTUŁ PORADNIKA:
-Theme Hospital Steam — spolszczenie PL 0.2 beta (DOSBox)
+Theme Hospital Steam - spolszczenie PL 0.2 beta (DOSBox)
 
 KRÓTKI OPIS:
-Nieoficjalne spolszczenie działające z oryginalnym Theme Hospital i DOSBoxem. Instrukcja instalacji, aktualizacji i odinstalowania. Pakiet wykonuje kopię oryginalnych plików. Wersja beta.
+Nieoficjalne spolszczenie do wydania Theme Hospital na Steam z 5 listopada 2026 r. Działa z oryginalną grą i DOSBoxem. Instrukcja instalacji, aktualizacji i odinstalowania. Pakiet wykonuje kopię oryginalnych plików. Wersja beta.
 
 TREŚĆ PORADNIKA (BBCode):
 
-[h1]Spolszczenie Theme Hospital ze Steam[/h1]
+[h1]Pobieranie i zgodność z wersją Steam[/h1]
 To adaptacja polskiego tłumaczenia CorsixTH do oryginalnej gry uruchamianej przez DOSBox. Po instalacji nadal uruchamiasz Theme Hospital przyciskiem Graj w Steam. Nie musisz instalować silnika CorsixTH.
 
 [url=https://github.com/hsr88/theme-hospital-steam-pl/releases/tag/v0.2-beta]Pobierz spolszczenie 0.2 beta z GitHuba[/url]
 
-[b]Sprawdzona wersja gry:[/b] Steam App ID 2229820, build 25682708. Pakiet wymaga własnej kopii gry i języka English ustawionego w Steam.
+[b]Spolszczenie przygotowano dla wydania Theme Hospital na Steam z 5 listopada 2026 r.[/b] Sprawdzona wersja gry: Steam App ID 2229820, build 25682708. Pakiet wymaga własnej kopii gry i języka English ustawionego w Steam.
 
 [h1]Instalacja[/h1]
 [olist]
