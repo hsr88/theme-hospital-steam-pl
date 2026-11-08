@@ -1,0 +1,18 @@
+{
+  "passed": [
+    "check_read_only",
+    "locked_file_failure_automatic_rollback",
+    "install_all_93_files",
+    "verified_original_backups",
+    "repeated_install_refused",
+    "foreign_change_refused_without_writes",
+    "corrupt_backup_refused",
+    "partial_install_recovery_exact_hashes",
+    "repeated_uninstall_safe",
+    "second_full_cycle_exact_hashes",
+    "unknown_version_refused",
+    "final_0_2_resource_install_and_uninstall_all_93_hashes"
+  ],
+  "failed": [],
+  "final_patch_sha256": "e9b5f04fbc674b7f31317c1a07e93d259aa982cc72bcbcdc4a655d9d5d07e88c"
+}

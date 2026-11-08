@@ -1,0 +1,51 @@
+TYTUŁ PORADNIKA:
+Theme Hospital Steam — spolszczenie PL 0.2 beta (DOSBox)
+
+KRÓTKI OPIS:
+Nieoficjalne spolszczenie działające z oryginalnym Theme Hospital i DOSBoxem. Instrukcja instalacji, aktualizacji i odinstalowania. Pakiet wykonuje kopię oryginalnych plików. Wersja beta.
+
+TREŚĆ PORADNIKA (BBCode):
+
+[h1]Spolszczenie Theme Hospital ze Steam[/h1]
+To adaptacja polskiego tłumaczenia CorsixTH do oryginalnej gry uruchamianej przez DOSBox. Po instalacji nadal uruchamiasz Theme Hospital przyciskiem Graj w Steam. Nie musisz instalować silnika CorsixTH.
+
+[url=https://github.com/hsr88/theme-hospital-steam-pl/releases/tag/v0.2-beta]Pobierz spolszczenie 0.2 beta z GitHuba[/url]
+
+[b]Sprawdzona wersja gry:[/b] Steam App ID 2229820, build 25682708. Pakiet wymaga własnej kopii gry i języka English ustawionego w Steam.
+
+[h1]Instalacja[/h1]
+[olist]
+[*]Pobierz plik ThemeHospital-PL-0.2-beta-public.zip i rozpakuj cały pakiet do osobnego folderu.
+[*]Zamknij grę i DOSBox. Język w ustawieniach Steam pozostaw jako English.
+[*]Uruchom Sprawdz.cmd, aby sprawdzić zgodność plików.
+[*]Uruchom Instaluj.cmd i wpisz TAK.
+[*]Uruchom grę przez Steam.
+[/olist]
+
+Instalator tworzy i sprawdza backup przed podmianą plików. Kopie znajdziesz w folderze .thpl/backup w katalogu gry. Nie uruchamiaj skryptów z podglądu ZIP-a.
+
+Jeśli masz już wersję 0.1 beta, użyj Aktualizuj.cmd. Zachowa także kopię poprzedniego spolszczenia.
+
+[h1]Co jest po polsku[/h1]
+Teksty całej kampanii: menu, komunikaty, odprawy, opisy chorób, pomieszczeń i wyposażenia. Pakiet obsługuje polskie litery i tłumaczy nazwy poziomów trudności.
+
+Głosy, filmy, napisy wrysowane w grafiki i zewnętrzny launcher pozostają w oryginale. Zachowano nazwiska autorów, nazwy własne i potrzebne identyfikatory techniczne.
+
+[h1]Odinstalowanie[/h1]
+Zamknij grę i uruchom Odinstaluj.cmd z pakietu 0.2. Potwierdź TAK. Narzędzie przywróci oryginalne pliki; zapisy gry pozostaną bez zmian. Nie usuwaj folderu .thpl przed odinstalowaniem.
+
+Po aktualizacji gry lub weryfikacji plików przez Steam może być potrzebne ponowne sprawdzenie zgodności. Jeśli instalator zgłasza obcą zmianę, nie wymuszaj podmiany plików.
+
+[h1]Testy i zgłaszanie błędów[/h1]
+Sprawdzono instalację, przywracanie kopii, ładowanie wszystkich 12 szpitali z polskimi odprawami oraz start przez Steam. Nie przechodzono całej kampanii i nie sprawdzono każdego okna, wszystkich rozdzielczości ani trybu wieloosobowego. To nadal wersja beta.
+
+Błędy zgłaszaj w [url=https://github.com/hsr88/theme-hospital-steam-pl/issues]Issues na GitHubie[/url]. Podaj wersję gry i patcha, ekran lub poziom oraz treść błędu. Dołącz zrzut, jeśli pokazuje problem; usuń z niego dane, których nie chcesz udostępniać.
+
+[h1]Autorzy[/h1]
+Tłumaczenie źródłowe: Bemberg, BuTcHeR, Johnny, Machiner, mziab, spec0071 i twig (eXtragry.pl / GrajPoPolsku). Wykorzystano polish.lua z CorsixTH na licencji MIT. Ich noty i licencje znajdują się w paczce.
+
+Wydanie i utrzymanie adaptacji: hsr88. Dodatkowe teksty, narzędzia i testy powstały z pomocą OpenAI Codex. To adaptacja istniejącego tłumaczenia z uzupełnieniami.
+
+[url=https://github.com/hsr88/theme-hospital-steam-pl/blob/main/AUTHORS.md]Pełna lista autorów[/url] | [url=https://github.com/hsr88/theme-hospital-steam-pl]Repozytorium, instrukcja i źródła[/url]
+
+Projekt jest nieoficjalny. Pakiet nie zawiera oryginalnych plików gry ani zapisów użytkownika.
